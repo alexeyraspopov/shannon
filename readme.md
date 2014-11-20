@@ -1,0 +1,3 @@
+# Shannon
+
+A JavaScript Library.
