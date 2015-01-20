@@ -4,6 +4,12 @@ A JavaScript Library.
 
 Inspired by ["A Mathematical Theory of Communication"][1].
 
+## Ideas
+
+ * Functional infrastructure
+ * Unidirectional data flow
+ * Declarative style
+
 ## License
 
 MIT License
