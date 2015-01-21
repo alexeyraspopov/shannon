@@ -10,6 +10,11 @@ Inspired by ["A Mathematical Theory of Communication"][1].
  * Unidirectional data flow
  * Declarative style
 
+## Questions
+
+ * What I'm trying to build?
+ * What types of web pages will be supported by Shannon? (content pages, statefull apps)
+
 ## License
 
 MIT License
