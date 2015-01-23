@@ -15,6 +15,7 @@ Inspired by ["A Mathematical Theory of Communication"][1].
  * What I'm trying to build?
  * What types of web pages will be supported by Shannon? (content pages, statefull apps)
  * How many instances can app has to stay simple? (2, 3)
+ * How can we describe a protocol in communication system between app and user?
 
 ## License
 
