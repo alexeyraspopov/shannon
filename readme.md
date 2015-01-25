@@ -24,3 +24,5 @@ MIT License
 
  [1]: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
  [2]: http://www.eden-study.org/articles/2006/abstraction-classes-sw-design_ieesw.pdf
+ [3]: http://conal.net/papers/push-pull-frp/push-pull-frp.pdf
+ [4]: http://shaffner.us/cs/papers/tarpit.pdf
