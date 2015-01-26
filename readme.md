@@ -26,3 +26,4 @@ MIT License
  [2]: http://www.eden-study.org/articles/2006/abstraction-classes-sw-design_ieesw.pdf
  [3]: http://conal.net/papers/push-pull-frp/push-pull-frp.pdf
  [4]: http://shaffner.us/cs/papers/tarpit.pdf
+ [5]: http://en.wikipedia.org/wiki/Control_theory
