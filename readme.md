@@ -1,6 +1,6 @@
 # Shannon
 
-A JavaScript Library.
+A JavaScript Library. Provides communication flow for your program systems.
 
 Inspired by ["A Mathematical Theory of Communication"][1].
 
