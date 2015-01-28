@@ -4,6 +4,10 @@ A JavaScript Library. Provides communication flow for your program systems.
 
 Inspired by ["A Mathematical Theory of Communication"][1].
 
+## Why?
+
+Data management layer and view layer can be rewritten with new library, but communication flow will be the same.
+
 ## Ideas
 
  * Functional infrastructure
