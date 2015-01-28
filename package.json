@@ -1,0 +1,19 @@
+{
+  "name": "shannon",
+  "version": "0.0.0",
+  "description": "A JavaScript Library. Provides communication flow for your program systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexeyraspopov/shannon.git"
+  },
+  "author": "Alexey Raspopov <avenger7x13@gmail.com> (https://github.com/alexeyraspopov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexeyraspopov/shannon/issues"
+  },
+  "homepage": "https://github.com/alexeyraspopov/shannon"
+}
