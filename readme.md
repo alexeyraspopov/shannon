@@ -21,6 +21,7 @@ Data management layer and view layer can be rewritten with new library, but comm
  * How many instances can app has to stay simple? (2, 3)
  * How can we describe a protocol in communication system between app and user?
  * What about 3rd party libs for rendering and data persistance?
+ * How can we manage a complex state of systems?
 
 ## License
 
