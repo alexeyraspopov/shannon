@@ -22,6 +22,7 @@ Data management layer and view layer can be rewritten with new library, but comm
  * How can we describe a protocol in communication system between app and user?
  * What about 3rd party libs for rendering and data persistance?
  * How can we manage a complex state of systems?
+ * Is it possible to abstract store instance to server implementation?
 
 ## License
 
