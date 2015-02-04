@@ -24,6 +24,7 @@ Data management layer and view layer can be rewritten with new library, but comm
  * How can we manage a complex state of systems?
    * Is it possible to use only attrs for dynamic components?
  * Is it possible to abstract store instance to server implementation?
+ * We need some way to distinguish type of communication between components (react or interact).
 
 ## License
 
