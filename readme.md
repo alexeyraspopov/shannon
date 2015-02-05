@@ -25,6 +25,7 @@ Data management layer and view layer can be rewritten with new library, but comm
    * Is it possible to use only attrs for dynamic components?
  * Is it possible to abstract store instance to server implementation?
  * We need some way to distinguish type of communication between components (react or interact).
+ * Can we reuse whole app screen as a component?
 
 ## License
 
