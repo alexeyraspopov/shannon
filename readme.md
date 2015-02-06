@@ -26,6 +26,7 @@ Data management layer and view layer can be rewritten with new library, but comm
  * Is it possible to abstract store instance to server implementation?
  * We need some way to distinguish type of communication between components (react or interact).
  * Can we reuse whole app screen as a component?
+ * We should have [explicit][6] state management
 
 ## License
 
@@ -36,3 +37,4 @@ MIT License
  [3]: http://conal.net/papers/push-pull-frp/push-pull-frp.pdf
  [4]: http://shaffner.us/cs/papers/tarpit.pdf
  [5]: http://en.wikipedia.org/wiki/Control_theory
+ [6]: https://www.youtube.com/watch?v=5yHFTN-_mOo
