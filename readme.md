@@ -27,7 +27,7 @@ Data management layer and view layer can be rewritten with new library, but comm
  * We need some way to distinguish type of communication between components (react or interact).
  * Can we reuse whole app screen as a component?
  * We should have [explicit][6] state management
-  * State management based on client's events is simply reducing unitial state
+  * State management based on client's events is simply [reducing initial state](https://github.com/staltz/mvi-example/blob/master/src/models/items.js)
 
 ## License
 
